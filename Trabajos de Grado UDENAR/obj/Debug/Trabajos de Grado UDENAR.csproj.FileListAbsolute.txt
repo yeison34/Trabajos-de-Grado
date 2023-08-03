@@ -1,0 +1,92 @@
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\Trabajos de Grado UDENAR.dll.config
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\Trabajos de Grado UDENAR.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\Trabajos de Grado UDENAR.pdb
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\csc.exe
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\csc.exe.config
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\csc.rsp
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\csi.exe
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\csi.exe.config
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\csi.rsp
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.AppContext.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.Collections.Immutable.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.Console.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.Globalization.Calendars.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.IO.Compression.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.IO.FileSystem.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.Net.Http.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.Net.Sockets.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.Reflection.Metadata.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.ValueTuple.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.Xml.XPath.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\vbc.exe
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\vbc.exe.config
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\vbc.rsp
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\VBCSCompiler.exe
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\roslyn\VBCSCompiler.exe.config
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\Antlr3.Runtime.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\Data.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\Entities.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\Microsoft.Web.Infrastructure.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\Negocio.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\Newtonsoft.Json.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\System.Web.Helpers.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\System.Web.Mvc.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\System.Web.Optimization.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\System.Web.Razor.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\System.Web.WebPages.Deployment.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\System.Web.WebPages.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\System.Web.WebPages.Razor.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\WebGrease.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\Data.pdb
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\Entities.pdb
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\Negocio.pdb
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\System.Web.Helpers.xml
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\System.Web.Mvc.xml
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\System.Web.Optimization.xml
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\System.Web.Razor.xml
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\System.Web.WebPages.xml
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\System.Web.WebPages.Deployment.xml
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\System.Web.WebPages.Razor.xml
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\Newtonsoft.Json.xml
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\Antlr3.Runtime.pdb
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\es\System.Web.Helpers.resources.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\es\System.Web.Mvc.resources.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\es\System.Web.Optimization.resources.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\es\System.Web.Razor.resources.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\es\System.Web.WebPages.resources.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\obj\Debug\Trabajos de Grado UDENAR.csproj.AssemblyReference.cache
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\obj\Debug\Trabajos de Grado UDENAR.csproj.CoreCompileInputs.cache
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\obj\Debug\Trabajos de Grado UDENAR.csproj.CopyComplete
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\obj\Debug\Trabajos de Grado UDENAR.dll
+D:\ejercicios c#\PruebaPostgresSQL\Trabajos de Grado UDENAR\obj\Debug\Trabajos de Grado UDENAR.pdb

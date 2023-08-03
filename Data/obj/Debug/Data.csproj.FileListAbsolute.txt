@@ -1,0 +1,9 @@
+D:\ejercicios c#\PruebaPostgresSQL\Data\bin\Debug\Data.dll
+D:\ejercicios c#\PruebaPostgresSQL\Data\bin\Debug\Data.pdb
+D:\ejercicios c#\PruebaPostgresSQL\Data\bin\Debug\Entities.dll
+D:\ejercicios c#\PruebaPostgresSQL\Data\bin\Debug\Entities.pdb
+D:\ejercicios c#\PruebaPostgresSQL\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+D:\ejercicios c#\PruebaPostgresSQL\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\ejercicios c#\PruebaPostgresSQL\Data\obj\Debug\Data.csproj.CopyComplete
+D:\ejercicios c#\PruebaPostgresSQL\Data\obj\Debug\Data.dll
+D:\ejercicios c#\PruebaPostgresSQL\Data\obj\Debug\Data.pdb

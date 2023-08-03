@@ -1,0 +1,11 @@
+D:\ejercicios c#\PruebaPostgresSQL\Negocio\bin\Debug\Negocio.dll
+D:\ejercicios c#\PruebaPostgresSQL\Negocio\bin\Debug\Negocio.pdb
+D:\ejercicios c#\PruebaPostgresSQL\Negocio\bin\Debug\Data.dll
+D:\ejercicios c#\PruebaPostgresSQL\Negocio\bin\Debug\Entities.dll
+D:\ejercicios c#\PruebaPostgresSQL\Negocio\bin\Debug\Data.pdb
+D:\ejercicios c#\PruebaPostgresSQL\Negocio\bin\Debug\Entities.pdb
+D:\ejercicios c#\PruebaPostgresSQL\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\ejercicios c#\PruebaPostgresSQL\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\ejercicios c#\PruebaPostgresSQL\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\ejercicios c#\PruebaPostgresSQL\Negocio\obj\Debug\Negocio.dll
+D:\ejercicios c#\PruebaPostgresSQL\Negocio\obj\Debug\Negocio.pdb
